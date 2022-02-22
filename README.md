@@ -3,7 +3,7 @@
 
 | week  |                content                  |
 |-------|-----------------------------------------|
-|   1   |   introduction, variables               |
+|   1   |   [introduction, variables](week1/introduction.md)               |
 |   2   |   if, else, lists, tuples               |
 |   3   |   dictionary, sets, generator, strings  |
 |   4   |   loops, iterator                       |
