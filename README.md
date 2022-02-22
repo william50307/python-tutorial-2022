@@ -12,3 +12,8 @@
 |   7   |   files                                 |
 |   8   |   classes                               |
 |   9   |   web crawler                           |
+
+
+Reading in Hackmd:
+ 
+1. [week1](https://hackmd.io/GmAcWhkORLaYtNVVz-fiew?view)
