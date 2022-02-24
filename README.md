@@ -17,3 +17,4 @@
 Reading in Hackmd:
  
 1. [week1](https://hackmd.io/GmAcWhkORLaYtNVVz-fiew?view)
+2. [week2(https://hackmd.io/p3w2zxu8SU2gBT8gX8dbcg)
