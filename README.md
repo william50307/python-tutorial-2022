@@ -17,4 +17,4 @@
 Reading in Hackmd:
  
 1. week1 : [introduction、variables](https://hackmd.io/GmAcWhkORLaYtNVVz-fiew?view) 、 [if else](https://hackmd.io/p3w2zxu8SU2gBT8gX8dbcg)
-2. week2 : [string operation](https://hackmd.io/p3w2zxu8SU2gBT8gX8dbcg) 、 [lists and tuples](https://hackmd.io/CvaS8qVTTmGbVwL36pMbxg)
+2. week2 : [string operation](https://hackmd.io/Q_4R9pPRRQWUTxrwTHOqjA) 、 [lists and tuples](https://hackmd.io/CvaS8qVTTmGbVwL36pMbxg)
