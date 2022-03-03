@@ -3,8 +3,8 @@
 
 | week  |                content                  |
 |-------|-----------------------------------------|
-|   1   |   introduction, variables               |
-|   2   |   if, else, lists, tuples               |
+|   1   |   introduction, variables, if else      |
+|   2   |   strings operation, lists and tuples   |
 |   3   |   dictionary, sets, generator, strings  |
 |   4   |   loops, iterator                       |
 |   5   |   reviews, practices                    |
