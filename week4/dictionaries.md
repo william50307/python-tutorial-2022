@@ -124,3 +124,52 @@ Enter a sentence: this is a test and this is quite long because this is a test
 'and' appears once in the sentence
 'test' appears 2 times in the sentence
 ```
+
+
+
+# generator expression
+
+假設我要做一個1~100的list該怎麼辦??
+
+
+用generator expression來寫
+![](https://i.imgur.com/bM2cyQJ.png)
+
+![](https://i.imgur.com/kqiWYn1.png)
+
+
+```python
+>>> [i for i in range(1,101)]
+[1,2,3,.......,98,99,100]
+```
+
+generator不只可以拿來創造list...
+```python
+>>> { i : i**2 for i in range(1,10)}
+{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64, 9: 81}
+```
+
+### 加入condition
+
+在generator中加入條件式
+![](https://i.imgur.com/Wrdiw8u.png)
+
+
+```python
+>>> [i for i in range(1,101) if i % 2 == 0]
+[2,4,6,......,96,98,100]
+```
+
+<br>
+如果是if-esle則要放到前面
+
+![](https://i.imgur.com/eQYf3R7.png)
+
+```python
+>>> [i if i%2==0 else -1 for i in range(1,101)]
+[-1,2,-1,4,......,-1,98,-1,100]
+```
+
+
+### exercise
+what's the output? `[[n**2 for n in range(10) if n%2==0],[n**3 for n in range(10)  if n%2!=0]]`
