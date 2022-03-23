@@ -1,16 +1,16 @@
 # python-tutorial-2022
 
-| week  |                content                                               |
-|-------|----------------------------------------------------------------------|
-|   1   |   [introduction](week1/introduction.md)、[if-else](week1/if_else.md) |
-|   2   |   [string operation](week2/stringoperation.md)                       |
-|   3   |   [loops](week3/loops.md)                                            |
-|   4   |[dictionaries](week4/dictionaries.md)、[functions](week4/functions.md)|
-|   5   |   reviews, practices                                                 |
-|   6   |   functions                                                          |
-|   7   |   files                                                              |
-|   8   |   classes                                                            |
-|   9   |   web crawler                                                        |
+| week  |                content                                                     |
+|-------|----------------------------------------------------------------------------|
+|   1   |   [introduction](week1/introduction.md)、[if-else](week1/if_else.md)       |
+|   2   |[string operation](week2/stringoperation.md)、[lists_and_tuples](week2/lists_and_tuples.md)|
+|   3   |   [loops](week3/loops.md)                                                  |
+|   4   |   [dictionaries](week4/dictionaries.md)、[functions](week4/functions.md)   |
+|   5   |   reviews, practices                                                       |
+|   6   |   functions                                                                |
+|   7   |   files                                                                    |
+|   8   |   classes                                                                  |
+|   9   |   web crawler                                                              |
 
 
 Reading in Hackmd:
