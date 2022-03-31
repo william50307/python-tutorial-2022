@@ -19,3 +19,4 @@ Reading in Hackmd:
 2. week2 : [string operation](https://hackmd.io/Q_4R9pPRRQWUTxrwTHOqjA) 、 [lists and tuples](https://hackmd.io/CvaS8qVTTmGbVwL36pMbxg)
 3. week3 : [loops](https://hackmd.io/d1OJlL2xTka8kytslZ-tjA)
 4. week4 : [dictionaries](https://hackmd.io/PU7_-VPMR8yTBRv5yDIWag)、[functions](https://hackmd.io/TMg76ummSIG7UV7gKkma3Q)
+5. week5 : [classes](https://hackmd.io/oofG3iiuS76ofdPjMaFDYQ)、 [practice](https://hackmd.io/_lSwjYilRr26_mTIFcEw1g)
