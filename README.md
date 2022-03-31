@@ -6,7 +6,7 @@
 |   2   |[string operation](week2/string_operation.md)、[lists_and_tuples](week2/lists_and_tuples.md)|
 |   3   |   [loops](week3/loops.md)                                                  |
 |   4   |   [dictionaries](week4/dictionaries.md)、[functions](week4/functions.md)   |
-|   5   |   reviews, practices                                                       |
+|   5   |   [classes](week5/classes.md)、[practic](week5/practice.md)                |
 |   6   |   functions                                                                |
 |   7   |   files                                                                    |
 |   8   |   classes                                                                  |
