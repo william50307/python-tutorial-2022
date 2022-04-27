@@ -7,7 +7,7 @@
 |   3   |   [loops](week3/loops.md)                                                  |
 |   4   |   [dictionaries](week4/dictionaries.md)、[functions](week4/functions.md)   |
 |   5   |   [classes](week5/classes.md)、[practic](week5/practice.md)                |
-|   6   |   [crawler](week6/crawler.md)、[bs4_demo](week6/beautifulsoup tutorial.ipynb)|
+|   6   |   [crawler](week6/crawler.md)、[bs4_demo](week6/beautifulsoup%20tutorial.ipynb)|
 |   7   |   -----------                                                              |
 |   8   |   -----------                                                              |
 |   9   |   -----------                                                              |
