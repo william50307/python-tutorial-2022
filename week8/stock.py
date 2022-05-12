@@ -6,6 +6,7 @@ import time
 url = 'https://histock.tw/stock/rank.aspx?&p={}&d=1'
 # 總頁數
 pages = 43
+headers = {'user-agent': 'Mozilla/5.0 (Macintosh Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'}
 
 with open('stock.csv', 'w', newline='', encoding='utf-8') as csvfile:
     
@@ -19,7 +20,7 @@ with open('stock.csv', 'w', newline='', encoding='utf-8') as csvfile:
     
 
     for i in range(1,pages+1):
-        res = rq.get(url.format(i))
+        res = rq.get(url.format(i), headers=headers)
         if res.status_code != 200:
             print('error in page', i)
             break
