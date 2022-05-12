@@ -7,9 +7,9 @@
 |   3   |   [loops](week3/loops.md)                                                  |
 |   4   |   [dictionaries](week4/dictionaries.md)、[functions](week4/functions.md)   |
 |   5   |   [classes](week5/classes.md)、[practic](week5/practice.md)                |
-|   6   |   [crawler](week6/crawler.md)、[bs4_demo](week6/beautifulsoup tutorial.ipynb)|
+|   6   |   [crawler](week6/crawler.md)、[bs4_demo](week6/beautifulsoup_tutorial.ipynb)|
 |   7   |   [crawler-selenium](week7/crawler_selenium.md)                             |
-|   8   |   -----------                                                              |
+|   8   |   [csv_file](week8/csv_file.md)、[pandas](week8/pandas.ipynb)               |
 |   9   |   -----------                                                              |
 
 
@@ -22,3 +22,4 @@ Reading in Hackmd:
 5. week5 : [classes](https://hackmd.io/oofG3iiuS76ofdPjMaFDYQ)、 [practice](https://hackmd.io/_lSwjYilRr26_mTIFcEw1g)
 6. week6 : [crawler](https://hackmd.io/Xf5OTiIzRlKrfp3Id5DWww)
 7. week7 : [crawler-selenium](https://hackmd.io/stTo_C-cSX6lxPVkeT--3Q?both)
+8. week8 : [csv_file](https://hackmd.io/4VcDP-jYSOyRUScgeM33-g?both)
