@@ -9,8 +9,8 @@
 |   5   |   [classes](week5/classes.md)、[practic](week5/practice.md)                |
 |   6   |   [crawler](week6/crawler.md)、[bs4_demo](week6/beautifulsoup_tutorial.ipynb)|
 |   7   |   [crawler-selenium](week7/crawler_selenium.md)                             |
-|   8   |   [csv_file](week8/csv_file.md)、[pandas](week8/pandas.ipynb)               |
-|   9   |   -----------                                                              |
+|   8   |   [csv_file](week8/csv_file.md)                                             |
+|   9   |   [pandas](week9/pandas.ipynb)、[matplotlib](week9/pandas.ipynb)            |
 
 
 Reading in Hackmd:
